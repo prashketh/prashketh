@@ -1,4 +1,4 @@
-<h2> ⚡ Hey, I am Prashanth!</h2>
+<h2> ⚡ Hey, I am Prashanth! ⚡</h2>
 
 ### A little about me...  
 
