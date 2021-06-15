@@ -1,4 +1,4 @@
-<h2> Hey! My name is Prashanth! ✨</h2>
+<h2> 💥 Hey! My name is Prashanth! 💥</h2>
 <p><em>Computer Science Major at <a href="https://www.utoronto.ca/">University of Toronto </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
