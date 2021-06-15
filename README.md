@@ -6,8 +6,13 @@
 
 ```javascript
 const prashketh = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  name: "Prashanth Ketheeswaran"
+  school: "University of Toronto"
+  program: "Computer Science Co-op"
+  status: "Third year"
+  
+  code: [Javascript, Python, Java, C, HTML, CSS/SCSS],
+  frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
