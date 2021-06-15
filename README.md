@@ -18,3 +18,6 @@ const prashketh = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+[![Linkedin:](https://img.shields.io/badge/-prashketh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashketh/)](https://www.linkedin.com/in/prashketh/)
+[![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh)
+
