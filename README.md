@@ -6,11 +6,11 @@
 
 ```javascript
 const prashketh = {
-  name: "Prashanth Ketheeswaran"
-  school: "University of Toronto"
-  program: "Computer Science Co-op"
-  status: "Third year"
-  seeking-internship: true
+  name: "Prashanth Ketheeswaran",
+  school: "University of Toronto",
+  program: "Computer Science Co-op",
+  status: "Third year",
+  seeking-internship: true,
   languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
   frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
 }
