@@ -10,7 +10,7 @@ const prashketh = {
   school: "University of Toronto",
   program: "Computer Science Co-op",
   status: "Third year",
-  seeking-internship: true,
+  seekingInternship: true,
   languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
   frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
 }
