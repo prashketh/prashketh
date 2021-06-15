@@ -2,10 +2,6 @@
 <p><em>Computer Science Major at <a href="https://www.utoronto.ca/">University of Toronto </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin:](https://img.shields.io/badge/-prashketh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashketh/)](https://www.linkedin.com/in/prashketh/)
-[![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh)
-
-
 ### A little more about me...  
 
 ```javascript
@@ -20,4 +16,5 @@ const prashketh = {
 
 [![Linkedin:](https://img.shields.io/badge/-prashketh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashketh/)](https://www.linkedin.com/in/prashketh/)
 [![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh)
+[![Email:](https://img.shields.io/badge/-Email-%23BB001B)](mailto:prashanthketheeswaran@gmail.com)
 
