@@ -16,5 +16,5 @@ const prashketh = {
 
 [![Linkedin:](https://img.shields.io/badge/-prashketh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashketh/)](https://www.linkedin.com/in/prashketh/) &nbsp;
 [![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh) &nbsp;
-[![Email:](https://img.shields.io/badge/-Email-%23BB001B)](mailto:prashanthketheeswaran@gmail.com)
+[![Email:](https://img.shields.io/badge/-Email-%23BB001B)](mailto: prashanthketheeswaran@gmail.com)
 
