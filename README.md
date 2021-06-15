@@ -9,7 +9,7 @@
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const prashketh = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
