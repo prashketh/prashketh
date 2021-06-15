@@ -11,7 +11,7 @@ const prashketh = {
   program: "Computer Science Co-op"
   status: "Third year"
   seeking-internship: true
-  code: [Javascript, Python, Java, C, HTML, CSS/SCSS],
+  languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
   frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
 }
 ```
