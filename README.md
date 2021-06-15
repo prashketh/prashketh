@@ -15,6 +15,6 @@ const prashketh = {
 <em><b>I love connecting with different people</b> so if you want to say hi, you can reach me at any of the links below! :)</em>
 
 [![Linkedin:](https://img.shields.io/badge/-prashketh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashketh/)](https://www.linkedin.com/in/prashketh/)
-[![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh)
+[![GitHub:](https://img.shields.io/github/followers/prashketh?label=follow&style=social)](https://github.com/prashketh) &nbsp;
 [![Email:](https://img.shields.io/badge/-Email-%23BB001B)](mailto:prashanthketheeswaran@gmail.com)
 
