@@ -4,7 +4,7 @@
 
 ```javascript
 const prashketh = {
-  name: "Prashanth Ketheeswaran",
+  name: "Prashanth K",
   school: "University of Toronto",
   program: "Computer Science Co-op",
   year: 3,
