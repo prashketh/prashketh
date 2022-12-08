@@ -7,7 +7,7 @@ const prashketh = {
   name: "Prashanth Keth",
   school: "University of Toronto",
   program: "Computer Science Co-op",
-  year: 3,
+  year: 4,
   seekingInternship: true,
   languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
   frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
