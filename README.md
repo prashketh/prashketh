@@ -9,7 +9,7 @@ const prashketh = {
   program: "Computer Science Co-op",
   year: 4,
   seekingInternship: false,
-  seekingFullTime: true,
+  seekingFullTime: false,
   languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
   frameworks: [React, Angular, Node, Next, MongoDB, MaterialUI, Bootstrap],
 }
