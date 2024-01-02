@@ -7,7 +7,7 @@ const prashketh = {
   name: "Prashanth Keth",
   school: "University of Toronto",
   program: "Computer Science Co-op",
-  year: 4,
+  year: graduated,
   seekingInternship: false,
   seekingFullTime: false,
   languages: [Javascript, Python, Java, C, HTML, CSS/SCSS],
